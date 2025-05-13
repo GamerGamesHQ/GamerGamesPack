@@ -1,0 +1,13 @@
+filename = 'EMIProfessions-neoforge-1.21.1-1.0.3.jar'
+name = 'EMI professions (EMIP)'
+side = 'both'
+
+[download]
+hash = 'df830a2c4eae2cd8eaecb3445d10b86a3af0c759'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6231426
+project-id = 1065904

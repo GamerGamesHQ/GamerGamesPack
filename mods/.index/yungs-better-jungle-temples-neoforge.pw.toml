@@ -1,0 +1,13 @@
+filename = 'YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar'
+name = "YUNG's Better Jungle Temples (NeoForge)"
+side = 'both'
+
+[download]
+hash = 'd6b7ce6cf351b09cbd23147ff166c35cfdc572e8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5924482
+project-id = 1015123

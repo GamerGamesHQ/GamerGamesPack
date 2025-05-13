@@ -1,0 +1,13 @@
+filename = 'tectonic-3.0.0+beta3.jar'
+name = 'Tectonic'
+side = 'both'
+
+[download]
+hash = '46260dddad08de9dbc540302dcf42d3acf5e4391'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6472129
+project-id = 686836

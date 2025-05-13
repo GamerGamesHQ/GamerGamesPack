@@ -1,0 +1,13 @@
+filename = 'emi_ores-1.2+1.21.1+neoforge.jar'
+name = 'EMI Ores'
+side = 'both'
+
+[download]
+hash = '2326620a11ad9ca463ef3a8cfa7d8f5ae169b756'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6060348
+project-id = 974009

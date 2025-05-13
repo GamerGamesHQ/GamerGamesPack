@@ -1,0 +1,13 @@
+filename = 'AmbientSounds_NEOFORGE_v6.1.10_mc1.21.1.jar'
+name = 'AmbientSounds'
+side = 'both'
+
+[download]
+hash = 'd98c1c4b7b8bc88b610ee94b54ef5e395438a532'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6525171
+project-id = 254284
