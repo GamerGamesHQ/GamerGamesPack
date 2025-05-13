@@ -28,3 +28,8 @@ usercache.json
 usernamecache.json
 icon.png
 .connector/
+XaeroWaypoints*/
+servers.dat*
+xaerominimap_entities.json
+*.snbt
+indigo-renderer.properties
