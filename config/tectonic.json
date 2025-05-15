@@ -10,6 +10,7 @@
     "erosion_scale": 0.25,
     "flat_terrain_skew": 0.1,
     "ocean_offset": -0.8,
+    "river_lanterns": true,
     "underground_rivers": true
   },
   "general": {
@@ -29,7 +30,6 @@
     "deep_ocean_depth": -0.45,
     "monument_offset": -30,
     "ocean_depth": -0.22,
-    "remove_frozen_ocean_ice": false,
-    "use_vanilla_shaping": false
+    "remove_frozen_ocean_ice": false
   }
 }

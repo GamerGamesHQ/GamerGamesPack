@@ -12,6 +12,8 @@
         "allow_editor_no_nucleus": false,
         // If a custom render mixin should be used to substitute nucleus editor
         "enable_editor_mixin": false,
+        // Can split into new lines on every character, not just space
+        "splt_new_line": false,
         "bindings": {
             "miapi:test": {
                 "scan_code": 36,
